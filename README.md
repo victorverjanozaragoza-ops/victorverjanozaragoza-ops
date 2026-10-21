@@ -12,17 +12,16 @@
 
 <!-- BADGES DE CONTACTO Y VISITAS -->
 <div align="center">
-  <a href="[https://www.linkedin.com/in/victor-manuel-verjano-zaragoza/]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/victor-manuel-verjano-zaragoza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Victor_Verjano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:victorverjanozaragoza@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-victorverjanozaragoza@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorverjanozaragoza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-victorverjanozaragoza@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Pinto%2C%20Madrid-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=00E5FF&style=for-the-badge" alt="Visitas" />
+  <a href="https://www.google.com/maps/place/Pinto,+Madrid">
+    <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Pinto%2C%20Madrid-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+  </a>
 </div>
-
-<br/>
 
 ---
 
