@@ -12,7 +12,7 @@
 
 <!-- BADGES DE CONTACTO Y VISITAS -->
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="[https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/victor-manuel-verjano-zaragoza/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:victorverjanozaragoza@gmail.com">
