@@ -1,6 +1,6 @@
 <!-- BANNER ANIMADO PRINCIPAL -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hola,%20soy%20[Tu%20Nombre]&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Creador%20de%20Soluciones%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hola,%20soy%20[VICTOR]&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Creador%20de%20Soluciones%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 <!-- TEXTO ANIMADO (EFECTO MÁQUINA DE ESCRIBIR) -->
